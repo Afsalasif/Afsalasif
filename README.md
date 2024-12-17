@@ -4,9 +4,9 @@ Hi 👋 My name is Mohamed Afzal NA
 Web Developer
 -------------
 
-Iam an aspiring full stack web developer
+Iam A Software Engineer
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Dubai
 * ✉️  You can contact me at [afsalasif138@gmail.com](mailto:afsalasif138@gmail.com)
 * 🧠  I'm learning Next js
 * 🤝  I'm open to collaborating on full stack web development
